@@ -4,7 +4,7 @@ Windows için masaüstü çeviri uygulaması. PDF, tarayıcı veya başka bir uy
 
 ## İndir ve kur
 
-1. Bu sayfadaki **Releases** bölümünden en yeni `bTranslate-Setup-win-x64-*.exe` dosyasını indirin.
+1. Bu sayfadaki **Releases** bölümünden en yeni `bTranslate-Setup-win-x64-*.exe` dosyasını indirin. GitHub'ın otomatik oluşturduğu **Source code** ZIP dosyaları uygulamayı içermez.
 2. Kurulum dosyasını çalıştırın. Kurulum bitince **bTranslate** uygulamasını Başlat menüsünden veya masaüstü kısayolundan açın.
 3. Kurulum veya kullanım için .NET yüklemeniz gerekmez. Windows 10/11, 64 bit gerekir.
 
