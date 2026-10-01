@@ -10,6 +10,8 @@ Windows için masaüstü çeviri uygulaması. PDF, tarayıcı veya başka bir uy
 
 Kurulum dosyası şu anda dijital olarak imzalı değildir; Windows indirme veya çalıştırma sırasında SmartScreen uyarısı gösterebilir. Dosyayı yalnızca bu deponun Releases bölümünden indirin. Aynı sürüme ait `.sha256` dosyası bütünlük kontrolü içindir.
 
+Kurulumda başka bir sürücü seçebilirsiniz. `E:\bTranslate` gibi kullanıcıya açık bir klasör için **Geçerli kullanıcı**, `E:\Program Files\bTranslate` gibi korumalı bir klasör için **Tüm kullanıcılar** seçeneğini kullanın; ikinci seçenek Windows yönetici onayı ister.
+
 Varsayılan seçili metin kısayolu **Ctrl+Alt+F8**, ekran alanı kısayolu **Ctrl+Alt+F9**'dur. Ayarlardan kaynak/hedef dili, çeviri servisini ve kısayolları değiştirebilirsiniz. Uygulamayı tamamen kapatmak için sistem tepsisi simgesine sağ tıklayıp **Çıkış**'ı seçin.
 
 Varsayılan Google Web ve isteğe bağlı Yandex Web servisleri API anahtarı istemez. Bu servisler resmî bulut API'leri değildir; erişimleri değişebilir. Seçtiğiniz metin, çeviri için seçili çevrimiçi servise gönderilir. Yerel Ollama ve LibreTranslate seçenekleri de vardır; bunlar ayrıca kurulmalıdır.
